@@ -40,4 +40,12 @@ When I first took college, the language that they thought us was Java. Which lat
     
    <img src="images/J1.png" alt="Jiefu Driving Simulator1" width="30%" height="30%">
    <img src="images/J2.png" alt="Jiefu Driving Simulator2" width="30%" height="30%">
+   
+### Links
+<a href = "https://www.facebook.com/rudolphjohn.agpoon/">Facebook</a>
+</br>
+<a href = "https://www.linkedin.com/in/rudolph-john-agpoon-602370223/"> LinkedIn </a>
+</br>
+<a href = "https://www.upwork.com/freelancers/~01f821e50fba8d65f2"> Upwork </a>
+
 
