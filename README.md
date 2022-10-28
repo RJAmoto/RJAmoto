@@ -36,11 +36,12 @@ When I first took college, the language that they thought us was Java. Which lat
       
 <a href="https://github.com/RJAmoto/Jiefu-Driving-Simulator"><strong>Jiefu Driving Simulator</strong></a>
 </br>
-  This project is still going on and This is my first game using unity, The goal of this project is to educate People about driving challenges and real life situations on the road which they might not be ready.
+  This is my first game using unity, The goal of this project is to educate People about driving challenges and real life situations on the road which they might not be ready.
     
    <img src="images/J1.png" alt="Jiefu Driving Simulator1" width="30%" height="30%">
    <img src="images/J2.png" alt="Jiefu Driving Simulator2" width="30%" height="30%">
    
+I have 2 ongoing games that I'll be posting later
 ### Links
 <a href = "https://www.facebook.com/rudolphjohn.agpoon/">Facebook</a>
 </br>
