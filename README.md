@@ -35,7 +35,7 @@ My first interest was not really game programming but rather to become an artist
 </br>
   <div align="center">
   <a href="https://github.com/RJAmoto/Jiefu-Driving-Simulator">
-    <img src = "screenshot/logo.png" width = "50%" height = "50%">
+    <img src = "images/logo.png" width = "50%" height = "50%">
   </a>
  
   <h3 align="center">Jiefu Driving Simulator</h3>
@@ -58,8 +58,8 @@ My first interest was not really game programming but rather to become an artist
 https://youtu.be/ZzQ0zjj0o3o
 
 <div align="center">
-  <img src = "screenshot/1.png" width = "50%" height = "50%">
-  <img src = "screenshot/2.png" width = "50%" height = "50%">
+  <img src = "images/1.png" width = "50%" height = "50%">
+  <img src = "images/2.png" width = "50%" height = "50%">
 </div>
  
 ## About the project
@@ -89,13 +89,13 @@ https://youtu.be/ZzQ0zjj0o3o
  
 ## Screenshots
 <div align="center">
- <img src = "screenshot/3.png" width = "50%" height = "50%">
- <img src = "screenshot/4.png" width = "50%" height = "50%">
- <img src = "screenshot/5.png" width = "50%" height = "50%">
- <img src = "screenshot/6.png" width = "50%" height = "50%">
- <img src = "screenshot/7.png" width = "50%" height = "50%">
- <img src = "screenshot/8.png" width = "50%" height = "50%">
- <img src = "screenshot/9.png" width = "50%" height = "50%">
+ <img src = "images/3.png" width = "50%" height = "50%">
+ <img src = "images/4.png" width = "50%" height = "50%">
+ <img src = "images/5.png" width = "50%" height = "50%">
+ <img src = "images/6.png" width = "50%" height = "50%">
+ <img src = "images/7.png" width = "50%" height = "50%">
+ <img src = "images/8.png" width = "50%" height = "50%">
+ <img src = "images/9.png" width = "50%" height = "50%">
 </div>
  
 ## Team
