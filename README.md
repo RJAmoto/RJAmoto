@@ -13,9 +13,6 @@ I’m a kind of person who loves making games and has a lot of imagination that 
 
 My first interest was not really game programming but rather to become an artist, I love drawing characters when I was a kid and I just love how I see the things that are inside my mind when I draw them. Later I discovered animation, that’s when I had an opportunity during my senior high school years that I took the Animation strand which is my interest. Besides being artistic I also love writing stories which makes animation as my perfect fit. But then I discovered that computer programming was also one of the subjects there. And it amazed me so much that I all I thought everyday was about programming, and here I am again trying to find a canvas where I can put another art.
 
-When I first took college, the language that they thought us was Java. Which later became my foundation in studying game programming and even C#, I watched a lot of tutorials and read books about programming. Until such time that I thought maybe I could use my Artistic skills in programming, and that’s when I discovered game development which I found perfect for me to express my ideas.
-
-
 ### My skills
 
 - :video_game: Unity Engine to make 3d or 2d games
@@ -36,10 +33,79 @@ When I first took college, the language that they thought us was Java. Which lat
       
 <a href="https://github.com/RJAmoto/Jiefu-Driving-Simulator"><strong>Jiefu Driving Simulator</strong></a>
 </br>
-  This is my first game using unity, The goal of this project is to educate People about driving challenges and real life situations on the road which they might not be ready.
-    
-   <img src="images/J1.png" alt="Jiefu Driving Simulator1" width="30%" height="30%">
-   <img src="images/J2.png" alt="Jiefu Driving Simulator2" width="30%" height="30%">
+  <div align="center">
+  <a href="https://github.com/RJAmoto/Jiefu-Driving-Simulator">
+    <img src = "screenshot/logo.png" width = "50%" height = "50%">
+  </a>
+ 
+  <h3 align="center">Jiefu Driving Simulator</h3>
+
+  <p align="center">
+    A Driving simulator with real life Philippine road challenges, Traffics and rules
+    <br />
+   <a href="https://github.com/RJAmoto"><strong>Follow me on Github</strong></a>
+   .
+   <a href="https://https://www.upwork.com/freelancers/~01f821e50fba8d65f2"><strong>Upwork</strong></a>
+   .
+   <a href="https://www.linkedin.com/in/rudolph-john-agpoon-602370223/"><strong>Linked in</strong></a>
+  </p>
+</div>
+
+ This is a driving simulation game that can educate the user and by using the rules and regulation based on the Philippine traffic rules and regulation. Users will be educated by a quiz mode on the game which is also a reviewer if ever that they want to get a license. They may also test their skills using the actual driving simulation that incorporates real life scenarios in Philippine roads.
+
+#### Watch our trailer on Youtube
+   
+https://youtu.be/ZzQ0zjj0o3o
+
+<div align="center">
+  <img src = "screenshot/1.png" width = "50%" height = "50%">
+  <img src = "screenshot/2.png" width = "50%" height = "50%">
+</div>
+ 
+## About the project
+ 
+ ### Features 
+ * Traffic light Control System
+ * Violation Triggers
+ * 10 Levels
+ * Quiz mode
+ * Simulation Mode
+ * Menu Screen and Settings
+ * Sound effects
+ * Pause and Resume
+ * Monetary System and Rewards
+ 
+ ### Car Modules
+ * Head Lights
+ * Brake Lights
+ * Signal Lights
+ * Horn
+ * Reverse and Drive
+ * Brake
+ * Speedometer
+ * Seatbelt
+ * Left and Right Button Steering
+ 
+ 
+## Screenshots
+<div align="center">
+ <img src = "screenshot/3.png" width = "50%" height = "50%">
+ <img src = "screenshot/4.png" width = "50%" height = "50%">
+ <img src = "screenshot/5.png" width = "50%" height = "50%">
+ <img src = "screenshot/6.png" width = "50%" height = "50%">
+ <img src = "screenshot/7.png" width = "50%" height = "50%">
+ <img src = "screenshot/8.png" width = "50%" height = "50%">
+ <img src = "screenshot/9.png" width = "50%" height = "50%">
+</div>
+ 
+## Team
+
+* **Rudolph John Agpoon - Lead Developer**
+* **Nomer Fabroliña - Environment Design**
+* **Jeff Rivera - Environment Design 3D model**
+* **Richmond Ramil - Documentation** 
+
+## Installation Guide
    
 I have 2 ongoing games that I'll be posting later
 ### Links
