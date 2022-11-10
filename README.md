@@ -16,7 +16,7 @@ My first interest was not really game programming but rather to become an artist
 ### My skills
 
 - :video_game: Unity Engine to make 3d or 2d games
-- :computer: JAVA, C#, C++, HTML, CSS and PHP
+- :computer: JAVA, C#, HTML, CSS
 - :framed_picture: Adobe Photoshop
 - :moyai: Blender
 - :iphone: Android Studio
